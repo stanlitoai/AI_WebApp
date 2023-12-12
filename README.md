@@ -23,6 +23,7 @@ Want to build LLM Apps...but without OpenAI dependencies? Well have I got the co
 11. The comparison app can be started by running `streamlit run app-comparison.py` before you do that though, update the base ggml download path in line 16, e.g. `BASE_PATH = 'C:/Users/User/AppData/Local/nomic.ai/GPT4All/'` and openAI api key on line 18
 
 
+
 # Other References 🔗
 <p>-<a href="https://github.com/nomic-ai/gpt4all/tree/main">GPT4AllReference
 </a>: mainly used to determine how to install the GPT4All library and references. Doco was changing frequently, at the time of coding this was the most up to date example of getting it running.</p>
